@@ -1,5 +1,5 @@
-CODE ANALYSIS
-
+# CODE ANALYSIS
+## Overview
 • The createMessage(k) function accepts a number k and creates one
 random binary message of size k. To generate the random bits
 the random.randrange(0,2) function is used. The message is stored in a list.
